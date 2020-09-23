@@ -1,0 +1,7 @@
+DialogMenu = 371, 69, 792, 487, , 44, 44, 465, 462, C
+modThemes = 198, 198, 619, 616, C
+modButtons = 132, 132, 553, 550, C
+mDeclares = 0, 0, 0, 0, C
+mCommonDialog = 132, 132, 523, 550, C
+mSaveIcon = 0, 0, 0, 0, C
+dlgImgList = 176, 176, 561, 594, 
